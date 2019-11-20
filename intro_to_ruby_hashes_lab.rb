@@ -1,7 +1,6 @@
 def base_hash
  nba_basketball = {
-   :east => {},
-   :west => {}
+   :east => {}
  }
 end
 
